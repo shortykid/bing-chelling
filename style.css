@@ -1,0 +1,23 @@
+body{
+    background-color: chocolate;
+}
+#score{
+    font-size: 30px;
+    margin-left: 20px;
+}
+#timer{
+    font-size: 30px;
+    float: right;
+}
+#sketch{
+    
+    text-align: center;
+}
+h1
+{
+    background-color: red;
+}
+#show_sketch
+{
+float: right;
+}
